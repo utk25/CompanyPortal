@@ -14,7 +14,7 @@ STEPS to follow to run the application
   
   Run command gradlew bootRun (chmod a+x gradlew && ./gradlew bootRun for Linux machines) at project root level. Tomcat is up and connected to database.
 
-  If you are seeing DDL errors while launching the application then:    
+  If you are seeing DDL errors while launching the server then:    
 
   Drop the database you created
 
@@ -32,3 +32,4 @@ or login using already inserted values in db
 Application url to access is http://localhost:8000
 
 Please refer the below google doc for implementation details:
+https://docs.google.com/document/d/1PZ1-qKv7jePoh7tq_W1PGZv5t9tToeWlMcjyNTnHyrE/edit?usp=sharing
